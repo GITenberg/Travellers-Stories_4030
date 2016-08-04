@@ -1,0 +1,32 @@
+_repo: Travellers-Stories_4030
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Follen, Eliza Lee Cabot
+    aliases:
+    - Follen, Charles Theodore Christian, Mrs.
+    - Follen, Mrs. (Eliza Lee)
+    - Cabot, Eliza Lee
+    birthdate: 1787
+    deathdate: 1860
+    gutenberg_agent_id: '1362'
+    url: http://www.gutenberg.org/2009/agents/1362
+    wikipedia: http://en.wikipedia.org/wiki/Eliza_Lee_Cabot_Follen
+description: ''
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4030'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Parent and child -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Brothers -- Juvenile fiction'
+- !lcsh 'Travel -- Juvenile fiction'
+- !lcsh 'Europe -- Description and travel -- Juvenile fiction'
+- GITenberg
+title: Travellers' Stories
+url: http://www.gutenberg.org/ebooks/4030
